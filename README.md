@@ -7,10 +7,7 @@
   - [Description of Project](#projectDescription)
   - [Visuals](#projectVisuals)
   - [Programming Languages Used](#projectScripts)
-  - [Project Usage](#projectUsage)
-  - [How can you contribute?](#projectContribution)
   - [How to Install](#projectInstallation)
-  - [Tests](#projectTests)
   - [GitHub Repo](#githubUser)
   - [Questions](#projectQuestions)
   ## Description of Project
