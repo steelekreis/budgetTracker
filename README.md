@@ -2,14 +2,6 @@
   ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
   (https://opensource.org/licenses/MIT)
-  This project uses 
-  ## Table of Contents
-  - [Description of Project](#projectDescription)
-  - [Visuals](#projectVisuals)
-  - [Programming Languages Used](#projectScripts)
-  - [How to Install](#projectInstallation)
-  - [GitHub Repo](#githubUser)
-  - [Questions](#projectQuestions)
   ## Description of Project
   This budget tracker application has been updated to allow offline access and functionality. Namely expenses and deposits can be added without a connection.
   ## Visuals
